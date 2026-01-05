@@ -1,0 +1,53 @@
+rank,suit,value
+Ace (A),Spades,11
+King (K),Spades,10
+Queen (Q),Spades,10
+Jack (J),Spades,10
+10,Spades,10
+9,Spades,9
+8,Spades,8
+7,Spades,7
+6,Spades,6
+5,Spades,5
+4,Spades,4
+3,Spades,3
+2,Spades,2
+Ace (A),Hearts,11
+King (K),Hearts,10
+Queen (Q),Hearts,10
+Jack (J),Hearts,10
+10,Hearts,10
+9,Hearts,9
+8,Hearts,8
+7,Hearts,7
+6,Hearts,6
+5,Hearts,5
+4,Hearts,4
+3,Hearts,3
+2,Hearts,2
+Ace (A),Diamonds,11
+King (K),Diamonds,10
+Queen (Q),Diamonds,10
+Jack (J),Diamonds,10
+10,Diamonds,10
+9,Diamonds,9
+8,Diamonds,8
+7,Diamonds,7
+6,Diamonds,6
+5,Diamonds,5
+4,Diamonds,4
+3,Diamonds,3
+2,Diamonds,2
+Ace (A),Clubs,11
+King (K),Clubs,10
+Queen (Q),Clubs,10
+Jack (J),Clubs,10
+10,Clubs,10
+9,Clubs,9
+8,Clubs,8
+7,Clubs,7
+6,Clubs,6
+5,Clubs,5
+4,Clubs,4
+3,Clubs,3
+2,Clubs,2
