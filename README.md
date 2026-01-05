@@ -4,11 +4,12 @@ A command-line interface (CLI) blackjack game built using python, with classic r
 # Features
 * Play Classic Blackjack in CLI against a computer Dealer
 * Stylized user interface with textual representation of cards.
-* A Simpler Blackjack variation, with basic functionalities: hit and stand actions.
+* A Blackjack variation, implementing standard Hit and Stand actions.
 * Multiple Players, you and other computer players (up to 9 bots).
 
 # Prerequisites
 * Python 3.8 or higher installed on your machine
+* No external dependencies required
 
 # Usage
 To run the game locally, clone the repository and run `python main.py` in the terminal.
@@ -19,7 +20,7 @@ cd CLI-classic_blackjack/project2_blackjack
 python main.py
 ```
 It is recommended to full screen the bash with font style Consolas 9pt.
-### Screenshot of Title Screen
+### Screen Capture of the Title Screen
 <img width="1095" height="506" alt="image" src="https://github.com/user-attachments/assets/2b26b3f0-8ab8-44c2-9e96-a9763a15fb61" />
 
 # Gameplay
@@ -99,7 +100,7 @@ if __name__ == "__main__":
     Deck()
     BlackjackGame.start()
 
-# From Blackjackgame class, start() method
+# From game.py Blackjackgame class, the start() method runs the game loop
   @classmethod
   def start(cls):
       cls.opening_display()
