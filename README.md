@@ -146,9 +146,11 @@ I am Jose Mari Jasmin Jr., an undergraduate students tudying BS Computer Enginee
 from University of the Philippines Diliman.
 
 - Personal Email: jasmin.josemarijr@gmail.com
-- School Email: jsjasmin2@upd.edu.ph
+- School Email: jsjasmin2@up.edu.ph
 
 #### Special Thanks 
 - ASCII art from [Text to ASCII Art Generator (patorjk.com)](https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type+&x=none&v=4&h=4&w=80&we=false)
 
 - Random Names from [250 Best Funny Usernames—Cool, Clever Usernames (parade.com)](https://parade.com/1032891/marynliles/funny-usernames/)
+
+- Blackjack How-To from [How to Play Blackjack by wikiHow](https://www.youtube.com/watch?v=eyoh-Ku9TCI)
